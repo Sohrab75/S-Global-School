@@ -12,9 +12,6 @@
 }
 .carousel-caption h5, p, a{
     color:black;
-    font-size:bold;
-    text-shadow:1px 1px 1px rgb(59, 197, 243);
-
 }
 .carousel-caption a{
     cursor:pointer;
